@@ -20,5 +20,5 @@ I always seek to improve my personal skills, and I consider myself someone who i
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansselperez/)
-[![facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)
-[![instagram](https://img.shields.io/badge/INSTAGRAM-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://katherineoelsner.com/)
+[![facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diegohanssel.perez/)
+[![instagram](https://img.shields.io/badge/INSTAGRAM-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegohansselperez/)
