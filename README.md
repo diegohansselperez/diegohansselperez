@@ -1,4 +1,4 @@
-# Hi✋, my name is Diego
+# Hi✋my name is Diego
 
 ## 🚀 About Me
 
