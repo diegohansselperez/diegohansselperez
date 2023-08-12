@@ -11,7 +11,7 @@ I always seek to improve my personal skills🙋‍♂️, and I consider myself 
 
 ## Tech Stack 📗📘
 
-**Client:** JavaScript, React, Redux, TailwindCSS, Bootstrap, Git and Github. 
+**Client:** JavaScript, React, TypeScrypt, Redux, TailwindCSS, Bootstrap, Git and Github. 
 
 **Server:** Node, Express, PostgreSQL, Sequelize, MongoDB.
 
