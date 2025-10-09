@@ -1,14 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+###
+
+<h1 align="left">Hi 👋! I'm Diego Hanssel Perez</h1>
 
 ###
 
-<h2 align="left">Hi 👋! I'm Diego Hanssel Perez</h2>
-
-###
-
-<h5 align="left">I'm a passionate Full-Stack Developer based in Mexico 🏜️💻. Embarking on my journey from scratch, the realm of web development has captured my keen interest and unwavering enthusiasm.<br><br>I have proven to myself that I can continue doing it without stopping to learn. I enjoy challenges, and I always strive to be my best version in order to finish projects on time and in the right way.</h5><br>
+<h3 align="left">I'm a passionate Full-Stack Developer based in Mexico 🏜️💻. Embarking on my journey from scratch, the realm of web development has captured my keen interest and unwavering enthusiasm.<br><br>I have proven to myself that I can continue doing it without stopping to learn. I enjoy challenges, and I always strive to be my best version in order to finish projects on time and in the right way.</h3><br>
 
 #
 
