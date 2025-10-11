@@ -39,11 +39,7 @@
   <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="29" alt="postgresql logo"  />
   <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="29" alt="express logo"  />
-  <img width="28" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="29" alt="mysql logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-plain.svg" height="29" alt="insomnia logo"  />
 </div>
 
 #
